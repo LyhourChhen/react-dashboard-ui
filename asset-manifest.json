@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.a2cd21d5.chunk.js",
+    "main.js.map": "/static/js/main.a2cd21d5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.487f2bbc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.487f2bbc.js.map",
+    "static/css/2.73b9491c.chunk.css": "/static/css/2.73b9491c.chunk.css",
+    "static/js/2.d8a4e7d7.chunk.js": "/static/js/2.d8a4e7d7.chunk.js",
+    "static/js/2.d8a4e7d7.chunk.js.map": "/static/js/2.d8a4e7d7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6ea6fac4f879f6c6aeb38b3f44c3df36.js": "/precache-manifest.6ea6fac4f879f6c6aeb38b3f44c3df36.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.73b9491c.chunk.css.map": "/static/css/2.73b9491c.chunk.css.map",
+    "static/js/2.d8a4e7d7.chunk.js.LICENSE": "/static/js/2.d8a4e7d7.chunk.js.LICENSE",
+    "static/media/total appointment.svg": "/static/media/total appointment.99396c51.svg",
+    "static/media/total patients.svg": "/static/media/total patients.687e7a91.svg",
+    "static/media/total treatments.svg": "/static/media/total treatments.0f3bb399.svg",
+    "static/media/upcoming appointment.svg": "/static/media/upcoming appointment.6e65ab9f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.487f2bbc.js",
+    "static/css/2.73b9491c.chunk.css",
+    "static/js/2.d8a4e7d7.chunk.js",
+    "static/js/main.a2cd21d5.chunk.js"
+  ]
+}
