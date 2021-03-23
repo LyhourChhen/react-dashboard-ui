@@ -2,6 +2,7 @@
   "name": "dashbaord_ui",
   "version": "0.1.0",
   "author": "lyhourchhen",
+  "homepage": "https://lyhourchhen.github.io/react-dashboard-ui/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
