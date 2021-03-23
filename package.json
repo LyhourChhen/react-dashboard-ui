@@ -22,6 +22,7 @@
   "scripts": {
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
+    "build:ci": "CI=false && yarn build",
     "test": "react-app-rewired test",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
