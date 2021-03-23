@@ -71,7 +71,7 @@ function App() {
         style={{
           display: "flex",
           flexDirection: "row",
-          justifyContent: "space-between"
+          justifyContent: "space-between",
         }}
       >
         <SmallCard
@@ -121,7 +121,7 @@ function App() {
               style={{
                 display: "flex",
                 justifyContent: "space-around",
-                marginTop: 20
+                marginTop: 20,
               }}
             >
               <BigCard

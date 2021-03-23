@@ -1,1 +1,1 @@
-### RIGHT NOW IT'S ASSHOLE BUT IT WILL BE BETTER SOON !
+### Clinic dashboard UI
